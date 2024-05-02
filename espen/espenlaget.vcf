@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Laget;Espen;;;
+FN:Espen Laget
+ORG:NettPost AS
+ADR;TYPE=WORK:Strandveien 50
+N-1366 Lysaker
+TITLE:Solution architect
+TEL;TYPE=CELL:+4792605040
+TEL;TYPE=WORK:+4767110900
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:espen@nettpost.no
+URL;TYPE=Digital Business Card:espen.laget.no
+URL:www.nettpost.no
+URL;TYPE=Location:https://maps.app.goo.gl/4art9fwtkFnsXcjy6
+URL;TYPE=Website:www.nettpost.no
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:M-Files Gold PartnerArcGIS integration
+UID:EnBizCard-100277888
+END:VCARD
